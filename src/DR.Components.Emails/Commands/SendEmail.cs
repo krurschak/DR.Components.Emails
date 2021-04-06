@@ -12,5 +12,6 @@ namespace DR.Components.Emails.Commands
         string Bcc { get; }
         string Subject { get; }
         string Body { get; }
+        string Signature { get; }
     }
 }
