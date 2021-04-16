@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DR.Packages.MassTransit;
+using System;
 
 namespace DR.Components.Emails.Commands
 {
